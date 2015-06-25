@@ -4,6 +4,8 @@
 
 #include <stdio.h>
 
+#include "./tools.h"
+
 typedef union {
 	unsigned short int a;
 	char b[2];
